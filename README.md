@@ -1,9 +1,7 @@
 ✅ **Tomas Crypto Farm** ✅
 
 **Problem Statement Title - Student Innovation** 🌟
-
 **Problem Statement ID - 1484** 🆔
-
 **Description** 📝
 
 More than 30% of the farmers in India are below the poverty line, and the rest face financial difficulties even for basic facilities like education or healthcare. Unfortunately, we frequently come across cases of farmer suicides. The poor farmer invests a large amount of his savings into his crop all at once, and if the crop fails, he is completely devastated. Sometimes he takes informal loans at high interest rates, which lead him into a debt trap or force him to pledge his property.
