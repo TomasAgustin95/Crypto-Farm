@@ -40,5 +40,4 @@ For growing rice on a 4-acre farm, the approximate investment required is 100k, 
 **NOTE** ❗
 
 1. All the transactions will be made on the blockchain and will be entirely transparent. No corruption can be made. 🔒
-
 2. The government will use the blockchain as it has highly encouraged cryptocurrency this year. The launch of 'E Rupee' digital currency by RBI has shown that the government is going to be in the field of blockchain. 🇮🇳
